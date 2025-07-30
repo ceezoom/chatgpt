@@ -1,0 +1,7 @@
+# Maven
+backend/target/
+# Node
+frontend/node_modules/
+
+# logs
+*.log
